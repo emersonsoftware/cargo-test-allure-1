@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"821bf159f2f41befa9d5b84ac797113e","name":"Navigate and different Locale selection","statistic":{"failed":0,"broken":0,"skipped":2,"passed":16,"unknown":0,"total":18}},{"uid":"c235245c86ca425c67687e6451b52819","name":"Navigate and check CN locale on staging","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
