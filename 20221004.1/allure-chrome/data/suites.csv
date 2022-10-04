@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Oct 04 13:27:45 UTC 2022","Tue Oct 04 13:27:47 UTC 2022","2186","","Training Center","","Training Center","Verify "" Oversight 2 Training"" link is displayed","Verify "" Oversight 2 Training"" link is displayed",""
+"passed","Tue Oct 04 13:27:42 UTC 2022","Tue Oct 04 13:27:44 UTC 2022","2499","","Training Center","","Training Center","Verify In Main menu  [Training Center] should be displayed","Verify In Main menu  [Training Center] should be displayed",""
+"passed","Tue Oct 04 13:28:19 UTC 2022","Tue Oct 04 13:28:25 UTC 2022","5770","","Training Center - Mandated Programs","","Training Center - Mandated Programs","Verify chickfil PDF is displayed","Verify chickfil PDF is displayed",""
+"failed","Tue Oct 04 13:27:50 UTC 2022","Tue Oct 04 13:28:01 UTC 2022","10218","","Training Center","","Training Center","Verify Map Info icon should be dispalyed, when click of icon info","Verify Map Info icon should be dispalyed, when click of icon info",""
+"passed","Tue Oct 04 13:27:44 UTC 2022","Tue Oct 04 13:27:45 UTC 2022","515","","Training Center","","Training Center","Verify ""Training center"" submenu should be displayed","Verify ""Training center"" submenu should be displayed",""
+"failed","Tue Oct 04 13:28:01 UTC 2022","Tue Oct 04 13:28:01 UTC 2022","174","","Training Center","","Training Center","Verify Map view icon label","Verify Map view icon label",""
+"failed","Tue Oct 04 13:27:47 UTC 2022","Tue Oct 04 13:27:50 UTC 2022","3311","","Training Center","","Training Center","Verify oversight 2 training page is displayed","Verify oversight 2 training page is displayed",""
